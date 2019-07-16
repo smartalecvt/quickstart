@@ -8,3 +8,5 @@ fields:
     required: false
   label: Page Title
   description: Type the page title here
+pages:
+- content/Hi.md
